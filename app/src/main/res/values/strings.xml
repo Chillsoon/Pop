@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pop</string>
+    <string name="start">Start</string>
+    <string name="retry">Retry</string>
+    <string name="score">Score</string>
+    <string name="setting">Setting</string>
+    <string name="shop">Shop</string>
+    <string name="help">help</string>
+    <string name="no_record">No record</string>
+    <string name="vibration_on">Vibration on</string>
+    <string name="vibration_off">Vibration off</string>
+    <string name="sound_on">Sound on</string>
+    <string name="sound_off">Sound off</string>
+    <string name="back_to_exit">Press back again to exit</string>
+    <string name="count">Count</string>
+    <string name="exit">Exit</string>
+    <string name="shop_item_0">Increase the game over limit by 10. (up to 5 uses per game)</string>
+    <string name="shop_item_1">Reset miss click count.</string>
+</resources>

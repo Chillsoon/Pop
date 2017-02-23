@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pop</string>
+    <string name="start">시작</string>
+    <string name="retry">다시하기</string>
+    <string name="score">점수</string>
+    <string name="setting">설정</string>
+    <string name="shop">상점</string>
+    <string name="help">도움말</string>
+    <string name="no_record">기록이 없습니다.</string>
+    <string name="vibration_on">진동 켬</string>
+    <string name="vibration_off">진동 끔</string>
+    <string name="sound_on">소리 켬</string>
+    <string name="sound_off">소리 끔</string>
+    <string name="back_to_exit">\'뒤로가기\' 버튼을 한번 더 누르면 종료됩니다</string>
+    <string name="count">카운트</string>
+    <string name="exit">나가기</string>
+    <string name="shop_item_0">최대 카운트를 10만큼 증가시켜줍니다. (게임당 최대 5회 사용)</string>
+    <string name="shop_item_1">미스 클릭 카운트를 초기화합니다.</string>
+</resources>
